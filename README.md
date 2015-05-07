@@ -53,7 +53,7 @@
   <title>User Profiles</title>
 </head>
 <body ng-controller="MainController">
-<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.3/angular.min.js">
+<script src="angular.min.js">
 <script src="app.js">
 <script src="controller.js">
 <script src="service.js">
